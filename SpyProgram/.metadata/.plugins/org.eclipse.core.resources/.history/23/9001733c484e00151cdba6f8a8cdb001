@@ -1,0 +1,8 @@
+package SpyProgram;
+
+import java.util.ArrayList;
+
+public class Section {
+
+	private ArrayList<Fragment> frag = new ArrayList<Fragment>();
+}

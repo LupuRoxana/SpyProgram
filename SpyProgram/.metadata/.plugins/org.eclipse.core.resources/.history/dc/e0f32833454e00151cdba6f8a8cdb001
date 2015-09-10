@@ -1,0 +1,11 @@
+package SpyProgram;
+
+public class Paragraph {
+
+	private String [] sir;
+	
+	public Paragraph(String [] sir) {
+		
+		sir = new String[0];
+	}
+}

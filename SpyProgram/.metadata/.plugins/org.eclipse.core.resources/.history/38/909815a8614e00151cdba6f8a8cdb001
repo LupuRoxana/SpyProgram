@@ -1,0 +1,5 @@
+package SpyProgram;
+
+public abstract class Detector {
+
+}

@@ -1,0 +1,17 @@
+package SpyProgram;
+
+public class AndDetector extends Detector {
+	
+	private Detector d1, d2;
+	
+	public AndDetector(Detector d1, Detector d2) {
+		
+		this.d1 = d1;
+		this.d2 = d2;
+	}
+	
+	public Fragment[] filter(Fragment[] f){
+		
+		System.out.println("Not implemented!");
+	}
+}
